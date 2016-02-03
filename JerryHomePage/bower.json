@@ -1,0 +1,24 @@
+{
+  "name": "JerryHomePage",
+  "authors": [
+    "Jerry"
+  ],
+  "description": "",
+  "main": "index.html",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "JerryHomePage"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
